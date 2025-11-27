@@ -462,51 +462,10 @@ This avoids committing:
 
 ---
 
-## Contributing
-
-This repository is intended for **experimentation and research** on:
-
-- Gateway-centric trust for consumer electronics
-- Permissioned IOTA-based trust registries
-- Revocation and audit for ISCCC loops
-
-Contributions are welcome:
-
-- Bug fixes or improvements to scripts
-- Better experiment automation and visualization
-- Integration with additional DLT backends or gateway implementations
-
-Feel free to open issues or pull requests.
-
----
-
 ## Resources
 
 - [IOTA Hornet Documentation](https://wiki.iota.org/hornet/)
 - [IOTA Wiki](https://wiki.iota.org/)
 - [IOTA GitHub](https://github.com/iotaledger)
 
-You may also be interested in:
-
-- ACE-OAuth, OSCORE, EDHOC (IETF)
-- RATS, EAT, SUIT (attestation & software update)
-- ETSI EN 303 645 (consumer IoT security baseline)
-- ETSI Permissioned Distributed Ledger (PDL)
-- IETF SCITT (transparent supply chains)
-
 ---
-
-## Citation
-
-If you use this project or its ideas in academic work, please cite:
-
-```bibtex
-@inproceedings{gatewaytrust2025,
-  title     = {Revocable and Lightweight Gateway-Centric Trust for Consumer Electronics Using Distributed Ledger Technology},
-  author    = {<Authors>},
-  booktitle = {<Conference/Workshop>},
-  year      = {2025}
-}
-```
-
-(Replace `<Authors>` and `<Conference/Workshop>` with the final publication details.)
