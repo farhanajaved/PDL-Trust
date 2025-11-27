@@ -1,0 +1,11 @@
+Test 3 — Summary
+-----------------
+TTC by phase (median / P95) [s]:
+  - normal  : n=  15  median=3.045  P95=5.048
+  - impaired: n=  20  median=3.022  P95=5.037
+  - offline : n=   5  median=3.030  P95=4.834
+  - recovery: n=  30  median=1.019  P95=5.029
+Recovery TTC median: 1.019 s
+Max observed queue depth: 15
+anchor_timeout counts:
+Catch-up time from recovery start: 16.053 s
