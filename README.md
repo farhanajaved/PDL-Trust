@@ -149,16 +149,6 @@ risk(d, c, t) ≤ θ_c
 
 where `θ_c` is a threshold that depends on the requested capability (e.g., stricter for `door.unlock` than for `lights.on`).
 
-### Micro-Quorums
-
-For high-impact actions, the gateway requires **k approvals** from **diverse trust domains**:
-
-- Different vendors  
-- Different sensing modalities  
-- Different network paths  
-
-This enforces diversity by construction, rather than assuming independence.
-
 ### Registry as Off-Path “Trust Memory”
 
 The trust registry is **off the action path**:
