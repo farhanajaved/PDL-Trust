@@ -175,6 +175,9 @@ When connectivity is impaired or offline:
   - Time-to-confirmation returns to the 1–5 s band.
   - Normal mode resumes once new snapshots are ingested.
 
+
+![Sequence Diagram](sequnce.png)
+
 ---
 
 ## Getting Started
