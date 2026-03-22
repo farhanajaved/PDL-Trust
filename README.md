@@ -176,7 +176,7 @@ When connectivity is impaired or offline:
   - Normal mode resumes once new snapshots are ingested.
 
 
-![Sequence Diagram](sequnce.png)
+![Sequence Diagram](sequence.png)
 
 ---
 
