@@ -175,8 +175,11 @@ When connectivity is impaired or offline:
   - Time-to-confirmation returns to the 1–5 s band.
   - Normal mode resumes once new snapshots are ingested.
 
+## Gateway decision and anchoring workflow between the household gateway, trust cache, and permissioned DLT.
 
-![Sequence Diagram](sequence.png)
+<p align="center">
+  <img src="sequence.png" alt="Sequence Diagram" width="700">
+</p>
 
 ---
 
